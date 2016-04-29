@@ -17,7 +17,7 @@ gem 'puma'
 # gem 'capistrano-rails', group: :development
 
 # Use Rack CORS for handling Cross-Origin Resource Sharing (CORS), making cross-origin AJAX possible
-# gem 'rack-cors'
+gem 'rack-cors'
 
 gem 'active_model_serializers', git: 'git@github.com:rails-api/active_model_serializers.git'
 gem 'ffaker'
